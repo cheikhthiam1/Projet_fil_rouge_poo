@@ -1,0 +1,13 @@
+{
+    "name": "hp/projet_semestre2",
+    "autoload": {
+        "psr-4": {
+            "App\\Models\\": "models/",
+            "App\\Core\\": "core/",
+            "App\\Controller\\": "Controller/",
+            "App\\Controller\\Api": "controller/Api/"
+        }
+    }
+   
+}
+
